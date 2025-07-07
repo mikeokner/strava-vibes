@@ -1,0 +1,6 @@
+aiohttp>=3.8.0
+aiofiles>=0.8.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+mapbox-vector-tile>=2.0.0
+rich>=13.0.0
