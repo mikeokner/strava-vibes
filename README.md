@@ -1,5 +1,7 @@
 # 🎯 Strava Segment Hunter 🚵
 
+![KOMs Won](./badges/koms-won.svg) ![Top Tens](./badges/top-tens.svg)
+
 A CLI utility to identify easily winnable Strava cycling segments based on
 attempt count and leader performance data.
 
