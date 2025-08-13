@@ -12,9 +12,9 @@
   <g fill="none" fill-rule="evenodd">
     <g font-family="'DejaVu Sans',Verdana,Geneva,sans-serif" font-size="11">
       <path id="workflow-bg" d="M0,3 C0,1.3431 1.3431,0 3,0 L70,0 L70,20 L3,20 C1.3431,20 0,18.6569 0,17 L0,3 Z" fill="url(#workflow-fill)" fill-rule="nonzero"></path>
-      <path id="state-bg" d="M70,0 L117,0 C118.6569,0 120,1.3431 120,3 L120,17 C120,18.6569 118.6569,20 117,20 L70,20 Z" fill="url(#state-fill)" fill-rule="nonzero"></path>
+      <path id="state-bg" d="M70,0 L90,0 C91.6569,0 93,1.3431 93,3 L93,17 C93,18.6569 91.6569,20 90,20 L70,20 Z" fill="url(#state-fill)" fill-rule="nonzero"></path>
       <text fill="#ffffff" x="6" y="15" textLength="58" lengthAdjust="spacing">Top Tens</text>
-      <text fill="#ffffff" x="76" y="15" textLength="38" lengthAdjust="spacing">4</text>
+      <text fill="#ffffff" x="76" y="15" textLength="25" lengthAdjust="spacing">6</text>
     </g>
   </g>
 </svg>
